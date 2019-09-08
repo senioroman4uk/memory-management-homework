@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryManagementHomeWork", "MemoryManagementHomeWork\MemoryManagementHomeWork.csproj", "{53919199-6F1C-4789-852B-BF1BA4A73CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagesClient", "MessagesClient\MessagesClient.csproj", "{ADD46AD8-08B2-4B44-951A-6CA0F4BAF020}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{9B9F41E8-FB6B-4035-A8E2-7C72EFB4B546}"
+ProjectSection(SolutionItems) = preProject
+	docker-compose.yaml = docker-compose.yaml
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53919199-6F1C-4789-852B-BF1BA4A73CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53919199-6F1C-4789-852B-BF1BA4A73CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53919199-6F1C-4789-852B-BF1BA4A73CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53919199-6F1C-4789-852B-BF1BA4A73CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD46AD8-08B2-4B44-951A-6CA0F4BAF020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD46AD8-08B2-4B44-951A-6CA0F4BAF020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD46AD8-08B2-4B44-951A-6CA0F4BAF020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD46AD8-08B2-4B44-951A-6CA0F4BAF020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
